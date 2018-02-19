@@ -11,7 +11,7 @@ Name | Description | Technologies | Testing Frameworks
 ---| --- | --- | --- |
 [Swapaway](https://github.com/Mnargh/Swapaway) | An item trading platform (group two week project)| MongoDB (ORM Mongoose), Express, React, Node.js | Mocha, Chai, Jest  
 [Stashtag](https://github.com/Mnargh/Stashtag) | A clone of Instagram (solo weekend challenge)| Ruby, Rails, PostgreSQL (ORM DataMapper), Jquery, Bootstrap, HTML/CSS | RSpec, Capybara, Selenium
-[MakersBnB](https://github.com/Mnargh/MakersBnB) | A clone of Yelp (group one week project)| Ruby, Sinatra, PostgreSQL (ORM DataMapper), Devise| Rspec, Capybara, Selenium
+[MakersBnB](https://github.com/Mnargh/MakersBnB) | A clone of AirBnb (group one week project)| Ruby, Sinatra, PostgreSQL (ORM DataMapper), Devise| Rspec, Capybara, Selenium
 [Bowling challenge](https://github.com/Mnargh/bowling-challenge)  | A multiplayer game for ten-pin bowling (solo weekend challenge) | Javascript| Jasmine
 [RPS Challenge](https://github.com/Mnargh/rps-challenge) | A single player game of Rock, Paper, Scissors (solo weekend challenge)| Ruby, Sinatra, Selenium-webdriver | Rspec, Capybara
 
