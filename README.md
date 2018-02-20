@@ -27,7 +27,7 @@ I have a keen mind that relishes the logical problem solving that exemplifies co
  A work placement at Baker & McKenzie, allowed me to gain experience in a corporate environment providing services to a number of clients, simultaneously developing my commercial awareness and professional communication skills. Working as a waiter, in tandem with my third year of university, improved my ability to read a customer’s body language and react accordingly. This has proved invaluable in situations where it has been important to understand people and respond to their needs in an appropriate and effective way, such as when interviewing guests on my university radio show and collaborating in group projects while at Maker's Academy.
 
 
-#### Adaptability
+#### Versatility
 
 I have a variety of experiences that derive from a broad interest in acquiring new skills. Critical to this has been the ability to "learn to learn" a new skill quickly. Prior to Makers Academy, my experience of programming was limited to building a basic website using HTML/CSS/JavaScript to help new students on my university course improve their maths, and  dabbling in rudimentary logic solving programs using C. During the sixteen weeks of the course, I have progressed to being able to build and test whole projects in an array (ha!) of languages and frameworks. This has given me the confidence to, along with a motley crew of other budding developers, create a product in an entirely new full stack (MERN) in just 10 days for my final project.
 
